@@ -1,0 +1,4 @@
+
+source ~/.my-env
+source ~/.my-alias
+source ~/.my-functions

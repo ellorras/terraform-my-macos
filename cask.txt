@@ -1,0 +1,6 @@
+firefox
+intellij-idea-ce
+kui
+slack
+sublime-text
+visual-studio-code
